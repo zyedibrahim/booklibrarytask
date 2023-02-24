@@ -1,0 +1,38 @@
+
+.card{
+    background: rgb(175, 162, 162);
+  
+}
+
+.heading{
+background:rgb(116, 113, 113);
+
+}
+
+.text-light{
+position: relative;
+top: 31px;
+
+
+}
+
+body{
+    background-image: url("https://thumbs.dreamstime.com/b/old-book-flying-letters-magic-light-background-bookshelf-library-ancient-books-as-symbol-knowledge-history-218640948.jpg");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
